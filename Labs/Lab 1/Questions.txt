@@ -1,0 +1,50 @@
+Task 01: 
+Develop a C++ program that verifies the primality of a given number. Enable user input for a numerical value and present the result indicating whether it is a prime number or not. 
+
+
+Task 02:
+Create a C++ program for handling student grades, allowing users to input marks in Mathematics, English, and Science. The program should compute total marks, average marks, and exhibit the corresponding grade for each student. Users can define the number of students and input subject marks for each student. Conclusively, showcase the marks, total, average, and grade for each student. 
+Assume a grading system as follows: 
+90 or higher: Grade A 
+80-89: Grade B 
+• 
+70-79: Grade C 
+60-69: Grade D 
+Below 60: Grade F 
+
+
+Task 03: 
+Provided an array of integers, 'nums,' and a target integer, find and return the indices of two numbers in the array whose sum equals the target. It is guaranteed that there is exactly one solution for each input, and the same array element cannot be used more than once. The order of the output indices does not matter. 
+Example: 
+= 
+Given nums Output: [0, 1] 
+[2, 7, 11, 15] and target 
+= 9, 
+Explanation: Since nums[0] + nums [1] equals 9, the indices [0, 1] are returned. 
+
+
+Task 04: 
+Given an integer array 'height' of length n, where n vertical lines are drawn with the endpoints of the ith line at (i, 0) and (i, height[i]), find two lines that, along with the x-axis, create a container holding the maximum amount of water. The goal is to return the maximum volume of water the container can store, considering that the container cannot be tilted. 
+Example: 
+Input: height 
+Output: 49 
+= 
+[1,8,6,2,5,4,8,3,7] 
+Explanation: The depicted vertical lines correspond to the array [1,8,6,2,5,4,8,3,7]. In this instance, the container can hold a maximum water volume (indicated by the blue section) of 49. 
+
+
+
+Task 05: 
+Develop a C++ program for an Event Management System aimed at streamlining event organization. The program should empower users to effortlessly handle event particulars such as event name, date, venue, and organizer. Key functionalities include adding events, displaying comprehensive details of all events, and enabling event searches based on specific dates. To enhance flexibility and scalability, employ dynamic memory allocation for storing event details. 
+1. Prompt the user to specify the total number of events they intend to manage. 
+2. Dynamically allocate memory to accommodate event details for the indicated number of events. 
+3. For each event, prompt the user to provide the following details: 
+- 
+- 
+- 
+- 
+Event Name 
+Date 
+Venue Organizer 
+4. Display all events that match the provided date, presenting their complete details. 
+5. Enable users to search for events based on a specific date. 
