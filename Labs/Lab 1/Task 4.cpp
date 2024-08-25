@@ -26,5 +26,4 @@ int main() {
         }
     }
     cout << "Max Volume: " << maxVolume << endl;
-    return 0;
 }
