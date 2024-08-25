@@ -1,3 +1,7 @@
+/*
+Name:Urooj Baloch
+ID:23k-0071
+*/
 #include<iostream>
 using namespace std;
 int main(){
