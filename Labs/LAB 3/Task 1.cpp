@@ -12,6 +12,9 @@ class boardMarker{
     public:
     //making my own constructor
     boardMarker(string brand,string shade,bool refillable,bool status){
+    /*using this-> to differentiate between constructor variable and class variable because of
+    the same name 
+    this->brand refers to the class member, while "brand" refers to the constructor parameter*/
         this->brand=brand;
         this->shade=shade;
         this->refillable=refillable;
