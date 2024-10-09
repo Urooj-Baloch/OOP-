@@ -1,3 +1,5 @@
+/*Name:Urooj Baloch
+ID:23K-0071*/
 #include <iostream>
 #include <cstring> // Prefer <cstring> for C++ style
 using namespace std;
