@@ -2,6 +2,7 @@
 ID:23K-0071
 */
 #include<iostream>
+#include<string>
 using namespace std;
 
 class Character{
