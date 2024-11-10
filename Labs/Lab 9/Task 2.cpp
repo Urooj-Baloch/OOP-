@@ -1,3 +1,6 @@
+/*Name:Urooj Baloch
+ID:23K-0071
+*/
 #include<iostream>
 #include<cmath>
 using namespace std;
